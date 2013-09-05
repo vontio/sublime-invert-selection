@@ -1,0 +1,12 @@
+## Usage :
+
+ - use `cmd+shift+P` then `Invert Selection`
+ - or goto menubar `Selection` then `Invert Selection`
+ - or bind some key in your user key binding:
+
+  ```js
+    {
+	 "keys": ["ctrl+alt+shift+i"],
+	 "command": "invert_selection"
+	}
+  ```
